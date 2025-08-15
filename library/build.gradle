@@ -41,11 +41,11 @@ dependencies {
     implementation 'com.android.support:recyclerview-v7:'+project.supportVersion
 }
 
-publish {
-    userOrg = 'tubb'
-    groupId = 'com.tubb.smrv'
-    artifactId = 'swipemenu-recyclerview'
-    publishVersion = project.versionName
-    desc = 'A swipe menu for recyclerview'
-    website = 'https://github.com/TUBB/SwipeMenu'
-}
+// publish {
+//     userOrg = 'tubb'
+//     groupId = 'com.tubb.smrv'
+//     artifactId = 'swipemenu-recyclerview'
+//     publishVersion = project.versionName
+//     desc = 'A swipe menu for recyclerview'
+//     website = 'https://github.com/TUBB/SwipeMenu'
+// }
